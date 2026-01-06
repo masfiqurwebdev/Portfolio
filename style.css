@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.font-open-sans{
+    font-family: 'Open Sans' sans-serif;
+    font-optical-sizing: auto;
+}
+header{
+    background: #fff8f3;
+    padding-top: 50px;
+}
+body{
+    font-family: 'Open Sans';
+}
+
+
